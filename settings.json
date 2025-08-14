@@ -1,0 +1,42 @@
+{
+    "buttons": {
+        "discord": {
+            "enabled": true,
+            "url": "https:\/\/discord.gg\/"
+        },
+        "telegram": {
+            "enabled": true,
+            "url": "https:\/\/t.me\/"
+        },
+        "contact": {
+            "enabled": true,
+            "url": "mailto:contact@example.com"
+        },
+        "forum": {
+            "enabled": true,
+            "url": "https:\/\/forum.example.com"
+        }
+    },
+    "news": [
+        {
+            "date": "2025-07-15",
+            "text": "Ajout de MT Manager dans les t\u00e9l\u00e9chargements"
+        },
+        {
+            "date": "2025-07-14",
+            "text": "test d'actualit\u00e9"
+        }
+    ],
+    "downloads": [
+        {
+            "name": "MT Manager",
+            "path": "https:\/\/mega.nz\/file\/9iFWzSDC#1lzOKMNE2NFavtGagK3hMSKc-nXVUollwjQXKexSlrg",
+            "note": "Pour modifier les APKs"
+        },
+        {
+            "name": "Tivimate 5.1.0 RTX Guiro mod",
+            "path": "https:\/\/mega.nz\/file\/V7EkHYJT#fF8I3FM1n_L8-XMaiEhu_5nGW-LhWNyaA1JyqwD_Dro",
+            "note": "Code Downloader : 9999999"
+        }
+    ]
+}
